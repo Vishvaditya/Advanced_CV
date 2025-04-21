@@ -80,3 +80,5 @@ dist/
 
 # Jupyter runtime
 ~/.local/share/jupyter/runtime/
+
+data/
